@@ -1,0 +1,16 @@
+# Bubsy Backend Dependencies (Tested and pinned on Windows, Python 3.11+)
+fastapi==0.143.0
+uvicorn==0.54.0
+pydantic==2.14.1
+pydantic-settings==2.15.0
+opencv-python==5.0.0.93
+numpy==2.5.4
+ultralytics==8.4.177
+pytest==9.1.1
+httpx==0.28.1
+ruff==0.17.0
+argon2-cffi==25.1.0
+python-multipart==0.0.32
+scikit-learn==1.9.1
+psutil==7.2.2
+tzdata==2026.5
